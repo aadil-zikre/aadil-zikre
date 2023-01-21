@@ -29,7 +29,7 @@ I am a Graduate Student at Syracuse University pursuing MS in Applied Data Scien
 For more information about me, check out my [LinkedIn][linkedin]
 
 - 🔭 I’m currently working on Text Summarization using Transformers
-- 📫 How to reach me: Hit me up on [LinkedIn][linkedin]
+- 📫 How to reach me: Message me on [LinkedIn][linkedin]
 
 ### Languages and Tools:
 
