@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## Hello! I am Aadil Zikre 🙋‍♂️
+## Hello! I am Aadil 🙋‍♂️
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />][kaggle]
