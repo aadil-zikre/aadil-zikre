@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 <br />
 -
-I am a Graduate Student at Syracuse University pursuing MS in Applied Data Science. I am curious and I like problem solving. I am an aspiring Data Scientist and my current area of interest is Natural Language Processing.
+I am a Graduate Student at Syracuse University pursuing Masters in Applied Data Science. I am curious and I like problem solving. I am an aspiring Data Scientist. 
 
 For more information about me, check out my [LinkedIn][linkedin]
 
-- 🔭 I’m currently working on Text Summarization using Transformers
-- 📫 How to reach me: Message me on [LinkedIn][linkedin]
+- 🔭 I’m currently looking to collaborate on deep learning projects in the filed of NLP and Computer Vision 
+- 📫 Please reach me on [LinkedIn][linkedin] if you find my profile interesting
 
 ### Languages and Tools:
 
