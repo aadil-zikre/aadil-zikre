@@ -24,12 +24,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 <br />
 -
-I am a Graduate Student at Syracuse University pursuing Masters in Applied Data Science. I am curious and I like problem solving. I am an aspiring Data Scientist. 
+I am a Machine Learning Engineer. Programming is my Passion and Problem Solving, my second Nature. Nice to meet you!
 
 For more information about me, check out my [LinkedIn][linkedin]
 
-- 🔭 I’m currently looking to collaborate on deep learning projects in the filed of NLP and Computer Vision 
-- 📫 Please reach me on [LinkedIn][linkedin] if you find my profile interesting
+For a cleaner look at my Portfolio, check out my [Portfolio Website][portfolio]
 
 ### Languages and Tools:
 
@@ -46,3 +45,4 @@ For more information about me, check out my [LinkedIn][linkedin]
 [linkedin]: https://www.linkedin.com/in/aadil-zikre/
 [kaggle]: https://www.kaggle.com/aadilzikre
 [twitter]: https://twitter.com/Aadil_Zikre
+[portfolio]: https://www.aadilzikre.com/
